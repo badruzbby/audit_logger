@@ -189,11 +189,9 @@ Kontribusi selalu disambut dengan baik! Jika Anda tertarik untuk berkontribusi, 
 4. Push ke branch (`git push origin feature/amazing-feature`)
 5. Buka Pull Request
 
-Lihat [CONTRIBUTING.md](CONTRIBUTING.md) untuk informasi lebih lanjut.
-
 ## 🔒 Keamanan
 
-Jika Anda menemukan masalah keamanan, mohon jangan membuka issue publik. Silakan kirim email ke security@example.com.
+Jika Anda menemukan masalah keamanan, mohon jangan membuka issue publik. Silakan kirim email ke badzzhaxor@gmail.com.
 
 ## 📄 Lisensi
 
